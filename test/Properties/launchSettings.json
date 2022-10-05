@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "test": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Path": "C:\\opencv\\build\\x64\\vc14\\bin"
+      }
+    }
+  }
+}
